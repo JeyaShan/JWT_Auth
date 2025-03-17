@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hd2rUdSJonDK8qJSpqE5jjoEDWN/M1EJ4kujHQMfAi4=",
+  "Source": "ImplementJwtAuth",
+  "BasePath": "_content/ImplementJwtAuth",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
